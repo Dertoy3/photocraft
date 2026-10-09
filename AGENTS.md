@@ -71,7 +71,7 @@ People trust PhotoCraft with their work, and a crash loses it. A malformed file,
 Priorities: important infrastructure first, then low-hanging parity, then the long tail.
 
 0. **Read `docs/roadmap.md` → "Honest parity assessment" first.** It says, dimension by dimension,
-   where PhotoCraft is lacking and the priority order of where we're going. `docs/parity.md`
+   where PhotoCraft is lacking and the priority order of where we're going. `docs/parity.m`
    (menu wiring) is not a measure of behaviour. When your work moves a measured number (PSD oracle,
    round trips, workflow tests, performance), update that section with the dated figure.
 1. **Check `docs/scorecard.md`** before picking work: each area's `missing` and `partial` rows,
